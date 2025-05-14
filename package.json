@@ -17,6 +17,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^22.15.18",
+    "@types/zip-stream": "^7.0.0",
     "zip-stream": "^7.0.2"
   },
   "devDependencies": {
